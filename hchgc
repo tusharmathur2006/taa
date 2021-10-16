@@ -6,14 +6,14 @@ void main()
  clrscr();
  printf("\n enter the number:");
  scanf("%d",&x);
- printf("\n\n even number list:\n");
+ printf("\n even number list:\n");
  n=2;
  while(n<=x)
  {
   printf(" %d",n);
   n=n+2;
  }
- printf("\n\n odd number list:\n");
+ printf("\n odd number list:\n");
  n=1;
  while(n<=x)
  {
